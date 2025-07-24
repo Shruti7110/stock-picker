@@ -1,6 +1,6 @@
 # StockPicker Pro 📈
 
-**AI-powered stock analysis tool for identifying high-potential Indian equities**  
+**AI-powered stock analysis tool for identifying high-potential Indian equities with mail alerts**  
 *Combining Brave Search, MCP Fetch, and FMP fundamentals for institutional-grade insights*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
